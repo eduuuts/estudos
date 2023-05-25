@@ -1,0 +1,39 @@
+.nav-row div {
+  width: 33%;
+}
+img.logo{
+  width: 150px;
+}
+.btn-rounded img{
+  border-radius: 100%!important;
+  object-fit: cover;
+  width: 50px;
+}
+.menu{
+  gap: 20px;
+  width: fit-content;
+}
+h1{
+  font-size: 48px;
+}
+ul.bullets li{
+  font-size: 14px;
+  display: inline;
+  margin-left: 10px;
+}
+.explain-cards{
+  width: fit-content;
+  gap: 20px;
+}
+.list{
+  width: fit-content;
+}
+h2{
+  font-weight: bold;
+}
+.img-card{
+  width: 23%;
+}
+.submenu{
+
+}
