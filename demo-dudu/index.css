@@ -16,10 +16,15 @@ img.logo{
 h1{
   font-size: 48px;
 }
+ul.bullets div{
+  list-style: none;
+}
 ul.bullets li{
+  display: flex;
   font-size: 14px;
   display: inline;
   margin-left: 10px;
+  justify-content: center;
 }
 .explain-cards{
   width: fit-content;
@@ -32,8 +37,5 @@ h2{
   font-weight: bold;
 }
 .img-card{
-  width: 23%;
-}
-.submenu{
-
+  width: 30%;
 }
