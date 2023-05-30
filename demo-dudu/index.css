@@ -36,6 +36,6 @@ ul.bullets li{
 h2{
   font-weight: bold;
 }
-.img-card{
-  width: 30%;
+.img-card div{
+margin-bottom: 5px; 
 }
