@@ -39,3 +39,22 @@ h2{
 .img-card div{
 margin-bottom: 5px; 
 }
+.px-2 {
+  padding-left: 15px !important;
+  padding-right: 15px!important;
+}
+.bi-heart-fill{
+  color:red;
+}
+.bg-purple{
+  background-color:purple;
+}
+ul.bullets2 li{
+  display: flex;
+  display: inline;
+  justify-content:left;
+  margin-left: 0px;
+}
+.star{
+  color:rgb(230, 230, 23);
+}
