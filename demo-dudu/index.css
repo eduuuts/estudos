@@ -47,12 +47,12 @@ margin-bottom: 5px;
   color:red;
 }
 .bg-purple{
-  background-color:rgb(227, 198, 250);
-  color:rgb(155, 50, 204);
+  background-color:rgb(219, 186, 247);
+  color:rgb(94,59,160);
 }
 .bg-green{
-  background-color:rgb(201, 250, 201) ;
-  color:rgb(27, 207, 117) ;
+  background-color:rgb(187, 241, 187) ;
+  color:rgb(12,188,135) ;
 }
 ul.bullets2{
   padding: 0;
@@ -70,4 +70,19 @@ div.bullets2{
 }
 .star{
   color:rgb(230, 230, 23);
+}
+.star .text{
+  color:black;
+}
+div .text{
+  color:black;
+}
+.bi-clock{
+  color:red;
+}
+.bi-table{
+  color:orange;
+}
+.line div{
+  display: inline;
 }
