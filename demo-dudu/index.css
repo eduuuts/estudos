@@ -86,3 +86,9 @@ div .text{
 .line div{
   display: inline;
 }
+.m-6{
+  margin-left:100px;
+}
+.mt-45{
+  margin-top: 35px;
+}
