@@ -69,7 +69,7 @@ div.bullets2{
   margin:0;
 }
 .star{
-  color:rgb(230, 230, 23);
+  color:rgb(247, 195, 46);
 }
 .star .text{
   color:black;
@@ -91,4 +91,14 @@ div .text{
 }
 .mt-45{
   margin-top: 35px;
+}
+.bg-info div{
+ background-color:rgb(23,162,184); 
+}
+.img-sm{
+  width: 40px;
+}
+.text-green {
+  color:rgb(21,190,140);
+  font-weight: bolder;
 }
