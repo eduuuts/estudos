@@ -86,6 +86,9 @@ div .text{
 .line div{
   display: inline;
 }
+.line li{
+  display: inline;
+}
 .m-6{
   margin-left:100px;
 }
@@ -104,4 +107,10 @@ div .text{
 }
 .guria{
   width:650px;
+}
+.bg-cinza{
+  background-color: rgb(245,247,249);
+}
+.stl-none{
+  list-style: none;
 }
