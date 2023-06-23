@@ -18,10 +18,10 @@
   padding-top: 100px !important;
 }
 .pt-5-3{
-  padding-top: 35px !important;
+  padding-top: 33px !important;
 }
 .ps-5-2{
-  padding-left: 35px !important;
+  padding-left: 33px !important;
 }
 
 .menu {
@@ -35,15 +35,19 @@
 font-weight: bolder;
 font-size:24px;
 font-family: syne, sans-serif;
-line-height: 10px;
+line-height: 17px;
 }
 .paragrafo{
-font-size:13px;
+font-size:11px;
 }
 .rating{
   margin-left:15px;
 }
-
+.img-rating{
+  width: 45%;
+  border-radius: 50%;
+  margin:0px;
+}
 .button {
   padding: 12px 30px;
   margin: 12px 30px;
@@ -80,7 +84,7 @@ h1 {
 }
 
 .vr {
-  border-left: 1px solid rgba(107, 104, 104, 0.34)
+  border-left: 2px solid rgb(107, 104, 104, 0.34)
 }
 
 div .estrela {
@@ -92,6 +96,6 @@ div .estrela {
 }
 .str-texto{
   color:#140a09;
-  font-size: 24px;
+  font-size: 26px;
   font-weight: bolder;
 }
