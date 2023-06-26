@@ -23,7 +23,15 @@
 .ps-5-2{
   padding-left: 33px !important;
 }
-
+.empilha{
+  position: absolute;
+  left: auto;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 46%;
+  height: 100%;
+}
 .menu {
   gap: 30px;
   font-size: 20px;
@@ -41,12 +49,13 @@ line-height: 17px;
 font-size:11px;
 }
 .rating{
-  margin-left:15px;
+color:rgb(20,10,9);
+font-weight: bold;
 }
 .img-rating{
-  width: 45%;
+  width: 50px;
   border-radius: 50%;
-  margin:0px;
+  margin-left:-8px;
 }
 .button {
   padding: 12px 30px;
@@ -84,15 +93,21 @@ h1 {
 }
 
 .vr {
-  border-left: 2px solid rgb(107, 104, 104, 0.34)
+  border-right: 1px solid rgb(107, 104, 104, 0.34)
 }
 
-div .estrela {
+.estrela {
   background-image: url(img/estrela.png);
-  background-size: auto;
   background-repeat: no-repeat;
   width: 100px;
   height: 100px;
+  font-size: 24px;
+  font-weight: bolder;
+  color:#000000;
+}
+.empilha{
+  background-image: url(img/empilha.jpeg);
+  background-repeat: no-repeat;
 }
 .str-texto{
   color:#140a09;
