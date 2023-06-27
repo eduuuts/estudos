@@ -9,7 +9,9 @@
 .pt-3 {
   padding-top: 10px !important;
 }
-
+.p-7{
+padding: 50px;
+}
 .pe-5 {
   padding-right: 13px !important;
 }
@@ -23,14 +25,21 @@
 .ps-5-2{
   padding-left: 33px !important;
 }
-.empilha{
-  position: absolute;
-  left: auto;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  width: 46%;
-  height: 100%;
+.font-y{
+font-size:34px;
+font-weight: bold;
+line-height: 40px;
+}
+.font-h3{
+  font-size: 29px;
+  font-weight: bold;
+}
+.font-p{
+  font-size:18px;
+}
+.font-p-bold{
+  font-size:18px;
+  font-weight: bold;
 }
 .menu {
   gap: 30px;
@@ -108,9 +117,18 @@ h1 {
 .empilha{
   background-image: url(img/empilha.jpeg);
   background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 620px;
+  
 }
 .str-texto{
   color:#140a09;
   font-size: 26px;
   font-weight: bolder;
+}
+.orange-background{
+  background-color:#e54530 ;
+}
+.dark-background{
+  background-color: #000000;
 }
