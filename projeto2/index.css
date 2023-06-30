@@ -13,7 +13,9 @@
 .pt-3 {
   padding-top: 10px !important;
 }
-
+.mt-6{
+  margin-top: 100px;
+}
 h-6 {
   font-size: 24px;
 }
@@ -26,7 +28,9 @@ h-6 {
 .p-7 {
   padding: 50px;
 }
-
+.pq{
+  padding: 35px;
+}
 .pe-5 {
   padding-right: 13px !important;
 }
@@ -50,7 +54,10 @@ h-6 {
   font-weight: bold;
   line-height: 40px;
 }
-
+.font-l{
+  font-size:44px;
+  color:#000000;
+}
 .font-h3 {
   font-size: 29px;
   font-weight: bold;
@@ -69,7 +76,12 @@ h-6 {
   font-size: 37px;
   font-weight: bold;
 }
-
+.bg-grey{
+  background-color: #f8f4f3;
+}
+.text-grey{
+  color:#f8f4f3;
+}
 .menu {
   gap: 30px;
   font-size: 20px;
@@ -168,7 +180,9 @@ h1 {
 }
 .escrito{
   background-image: url(img/escrito-redondo.png);
-  width:100px
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: 90%;
 }
 .str-texto {
   color: #140a09;
@@ -206,4 +220,8 @@ background-color: #140a09;
 }
 .line{
   display:inline;
+}
+.fundoBaixo{
+  background-image: url(https://uploads-ssl.webflow.com/62172851fe5d176bbedd0632/62ad56cc501088b7cd20b944_bg-01.jpg);
+  background-repeat: no-repeat;
 }
