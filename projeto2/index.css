@@ -13,24 +13,36 @@
 .pt-3 {
   padding-top: 10px !important;
 }
-.mt-6{
+
+.mt-6 {
   margin-top: 100px;
 }
+
 h-6 {
   font-size: 24px;
 }
-.mb-7{
+
+.px-6 {
+  padding-left: 75px !important;
+  padding-right: 75px !important;
+}
+
+.mb-7 {
   margin-bottom: 30px;
 }
-.p-6{
-  padding:12px;
+
+.p-6 {
+  padding: 12px;
 }
+
 .p-7 {
   padding: 50px;
 }
-.pq{
+
+.pq {
   padding: 35px;
 }
+
 .pe-5 {
   padding-right: 13px !important;
 }
@@ -38,9 +50,11 @@ h-6 {
 .pt-5-2 {
   padding-top: 100px !important;
 }
-.p-8{
+
+.p-8 {
   padding: 500px;
 }
+
 .pt-5-3 {
   padding-top: 33px !important;
 }
@@ -54,10 +68,12 @@ h-6 {
   font-weight: bold;
   line-height: 40px;
 }
-.font-l{
-  font-size:44px;
-  color:#000000;
+
+.font-l {
+  font-size: 44px;
+  color: #000000;
 }
+
 .font-h3 {
   font-size: 29px;
   font-weight: bold;
@@ -76,12 +92,15 @@ h-6 {
   font-size: 37px;
   font-weight: bold;
 }
-.bg-grey{
+
+.bg-grey {
   background-color: #f8f4f3;
 }
-.text-grey{
-  color:#f8f4f3;
+
+.text-grey {
+  color: #f8f4f3;
 }
+
 .menu {
   gap: 30px;
   font-size: 20px;
@@ -131,10 +150,12 @@ h-6 {
   font-size: 22px;
   width: fit-content;
 }
-.ball-p{
+
+.ball-p {
   border-radius: 50%;
   padding: 55px;
 }
+
 h1 {
   font-size: 78px;
   font-weight: bolder;
@@ -149,15 +170,19 @@ h1 {
 .text-orange {
   color: #e54530;
 }
-.bold{
+
+.bold {
   font-weight: bold;
 }
+
 .vr {
   border-right: 1px solid rgb(107, 104, 104, 0.34)
 }
-.font-7{
+
+.font-7 {
   font-size: 20px;
 }
+
 .fon-1 {
   font-size: 72px;
 }
@@ -172,56 +197,81 @@ h1 {
   color: #000000;
 }
 
+.d-inline {
+  display: inline;
+}
+
 .empilha {
   background-image: url(img/empilha.jpeg);
   background-repeat: no-repeat;
   background-position: top right;
   background-size: 620px 800px;
 }
-.escrito{
+
+.escrito {
   background-image: url(img/escrito-redondo.png);
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
   background-position: center center;
   background-size: 90%;
 }
+
 .str-texto {
   color: #140a09;
   font-size: 26px;
   font-weight: bolder;
 }
-.ball{
+
+.ball {
   border-radius: 50%;
 }
-.seta-cima{
+
+.seta-cima {
   width: 28px;
 }
+
 .background-dark {
-background-color: #140a09;
+  background-color: #140a09;
 }
 
 .orange-background {
   background-color: #e54530;
 }
-.img-card-2{
+
+.img-card-2 {
   width: 150px;
-  opacity:0.5;
+  opacity: 0.5;
 }
+
 .dark-background {
   background-color: #000000;
 }
-.card-3{
+
+.card-3 {
   font-size: 40px;
 }
+
 .background-light {
   background-color: rgb(248, 244, 243);
 }
-.text-black{
-  color:#000000 !important;
+
+.text-black {
+  color: #000000 !important;
 }
-.line{
-  display:inline;
+
+.line {
+  display: inline;
 }
-.fundoBaixo{
+
+.fundoBaixo {
   background-image: url(https://uploads-ssl.webflow.com/62172851fe5d176bbedd0632/62ad56cc501088b7cd20b944_bg-01.jpg);
   background-repeat: no-repeat;
+}
+
+.bordN {
+  border: 1px none #000;
+  width: 100%;
+}
+
+.bordm {
+  border: solid 1px rgb(112, 112, 112);
 }
