@@ -22,6 +22,11 @@ h-6 {
   font-size: 24px;
 }
 
+.px-7 {
+  padding-left: 53px;
+  padding-right: 53px;
+}
+
 .px-6 {
   padding-left: 75px !important;
   padding-right: 75px !important;
@@ -265,6 +270,7 @@ h1 {
 .fundoBaixo {
   background-image: url(https://uploads-ssl.webflow.com/62172851fe5d176bbedd0632/62ad56cc501088b7cd20b944_bg-01.jpg);
   background-repeat: no-repeat;
+  background-size: auto 700px;
 }
 
 .bordN {
@@ -274,4 +280,18 @@ h1 {
 
 .bordm {
   border: solid 1px rgb(112, 112, 112);
+}
+.bold{
+  font-weight: bold;
+}
+.bolder{
+  font-weight: bolder;
+}
+.business {
+  font-size: 60px;
+  font-weight: bold;
+}
+.verificado{
+  width: 30px;
+  height: 100%;
 }
