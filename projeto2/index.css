@@ -46,6 +46,7 @@ h-6 {
 
 .pq {
   padding: 35px;
+  box-shadow: 0px 100px 50px grey;
 }
 
 .pe-5 {
@@ -270,14 +271,18 @@ h1 {
 .fundoBaixo {
   background-image: url(https://uploads-ssl.webflow.com/62172851fe5d176bbedd0632/62ad56cc501088b7cd20b944_bg-01.jpg);
   background-repeat: no-repeat;
-  background-size: auto 700px;
+  background-size: 100% 700px;
 }
 
 .bordN {
   border: 1px none #000;
   width: 100%;
 }
-
+.bordM {
+  border: 1px none #000;
+  width: 100%;
+  border-radius: 0px;
+}
 .bordm {
   border: solid 1px rgb(112, 112, 112);
 }
