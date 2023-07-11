@@ -46,7 +46,7 @@ h-6 {
 
 .pq {
   padding: 35px;
-  box-shadow: 0px 100px 50px grey;
+  box-shadow: 0px 40px 70px rgb(104, 104, 104);
 }
 
 .pe-5 {
@@ -256,6 +256,10 @@ h1 {
   font-size: 40px;
 }
 
+.mundoponto {
+  background-image: url(img/pontilhado\ mundo.png);
+}
+
 .background-light {
   background-color: rgb(248, 244, 243);
 }
@@ -278,25 +282,49 @@ h1 {
   border: 1px none #000;
   width: 100%;
 }
+
 .bordM {
   border: 1px none #000;
   width: 100%;
   border-radius: 0px;
 }
+
 .bordm {
   border: solid 1px rgb(112, 112, 112);
 }
-.bold{
+
+.bold {
   font-weight: bold;
 }
-.bolder{
+
+.bolder {
   font-weight: bolder;
 }
+
 .business {
   font-size: 60px;
   font-weight: bold;
 }
-.verificado{
+
+.verificado {
   width: 30px;
   height: 100%;
+}
+.txt-v{
+  width: fit-content;
+}
+.font-70 {
+  font-size: 70px;
+}
+.fundoAmarelo{
+  width: 70px;
+  border-radius: 50%;
+}
+.wip {
+  margin-right: 30px;
+  padding: 40px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #e54530;
+  background-color: #fff;
 }
