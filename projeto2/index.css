@@ -27,6 +27,11 @@ h-6 {
   padding-right: 53px;
 }
 
+.py-6 {
+  padding-top: 75px !important;
+  padding-bottom: 75px !important;
+}
+
 .px-6 {
   padding-left: 75px !important;
   padding-right: 75px !important;
@@ -155,6 +160,17 @@ h-6 {
   font-weight: bold;
   font-size: 22px;
   width: fit-content;
+}
+
+.button-dark-rounded {
+  padding: 12px 30px;
+  background-color: #140a09;
+  color: #e54530;
+  font-family: syne;
+  font-weight: bold;
+  font-size: 22px;
+  width: fit-content;
+  border-radius: 50%;
 }
 
 .ball-p {
@@ -310,21 +326,35 @@ h1 {
   width: 30px;
   height: 100%;
 }
-.txt-v{
+
+.txt-v {
   width: fit-content;
 }
+
 .font-70 {
   font-size: 70px;
 }
-.fundoAmarelo{
+
+.fundoAmarelo {
   width: 70px;
   border-radius: 50%;
 }
-.wip {
+
+.linhaLaranja {
   margin-right: 30px;
   padding: 40px;
   border-style: solid;
   border-width: 2px;
   border-color: #e54530;
   background-color: #fff;
+}
+
+.marcas {
+  opacity: 0.6;
+  width: 175px;
+}
+
+.wip {
+  font-size: 58px;
+  font-weight: bold;
 }
